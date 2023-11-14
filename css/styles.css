@@ -1,0 +1,48 @@
+/*********Tag selector**********/
+body {
+    background-color: aquamarine;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: rebeccapurple;
+    border-width: 5px;
+    /* border-style: none;
+    border-top-style: dotted; */
+    height: 0px;
+    width: 70%;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 50px
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    text-align: left;
+}
+
+img:hover {
+    background-color: greenyellow;
+}
+
+/*************Class selector****************/
+
+.desc {
+    text-align: center;
+}
+
+.title {
+    font-size: 20px;
+    text-align: right;
+}
+
+/*****************ID SELECTOR*******************/
+#skills {
+    color: brown;
+}
